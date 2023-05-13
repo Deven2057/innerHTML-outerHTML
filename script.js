@@ -8,3 +8,6 @@ console.log(first.innerHTML)
 console.log(first.outerHTML)
 
 console.log(document.body.textContent)
+
+
+first.hidden //to show the hidden tag
